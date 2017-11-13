@@ -26,7 +26,7 @@ ul.menu li.active a {
         color: transparent; /* hide header text */
         width: 224px;
         height: 119px;
-        background-image: url("../../img/lc/lc.png");
+        background-image: url("../../img/LC/LC.png");
         background-repeat: no-repeat;
         background-position: 100% 0%;
     }
